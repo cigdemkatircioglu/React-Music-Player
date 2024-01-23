@@ -13,4 +13,4 @@ I hope you enjoy this music application that I made by creating my own favorite 
 
 ## Screenshot
 
-![](Assets/Images/Thumbnail.png)
+![Thumbnail](https://github.com/cigdemkatircioglu/React-Music-Player/assets/128975102/d9968e9a-68cd-4164-9189-9f343e8a9abe)
